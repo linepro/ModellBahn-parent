@@ -103,7 +103,7 @@
         <auto-service.version>1.0-rc4</auto-service.version>
         <auto-value.version>1.6.2</auto-value.version>
         <byte-buddy.version>1.9.6</byte-buddy.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-csv.version>1.6</commons-csv.version>
         <commons-io.version>2.6</commons-io.version>
