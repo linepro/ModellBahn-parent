@@ -106,7 +106,7 @@
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-csv.version>1.6</commons-csv.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <dagger.version>2.16</dagger.version>
         <esapi.version>2.1.0.1</esapi.version>
