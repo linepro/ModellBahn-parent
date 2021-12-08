@@ -111,7 +111,7 @@
         <dagger.version>2.16</dagger.version>
         <esapi.version>2.1.0.1</esapi.version>
         <grizzly.version>2.4.3.1</grizzly.version>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <guice-assistedinject.version>4.2.2</guice-assistedinject.version>
         <guice.version>4.2.2</guice.version>
         <h2.version>1.4.197</h2.version>
