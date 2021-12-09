@@ -103,23 +103,23 @@
         <auto-service.version>1.0-rc4</auto-service.version>
         <auto-value.version>1.6.2</auto-value.version>
         <byte-buddy.version>1.9.6</byte-buddy.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-csv.version>1.6</commons-csv.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <dagger.version>2.16</dagger.version>
         <esapi.version>2.1.0.1</esapi.version>
         <grizzly.version>2.4.3.1</grizzly.version>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <guice-assistedinject.version>4.2.2</guice-assistedinject.version>
         <guice.version>4.2.2</guice.version>
         <h2.version>1.4.197</h2.version>
         <hamcrest.version>2.1</hamcrest.version>
         <hibernate-core.version>5.4.0.Final</hibernate-core.version>
-        <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.20.Final</hibernate-validator.version>
         <jackson.version>2.9.8</jackson.version>
-        <jackson-databind.version>2.9.8</jackson-databind.version>
+        <jackson-databind.version>2.9.10.8</jackson-databind.version>
         <javax.el.version>3.0.1-b11</javax.el.version>
         <javax.el-api.version>3.0.1-b06</javax.el-api.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
@@ -129,7 +129,7 @@
         <jersey-guice.version>1.19.4</jersey-guice.version>
         <jetty.version>9.4.11.v20180605</jetty.version>
         <jul-to-slf4j.version>1.7.25</jul-to-slf4j.version>
-        <log4j.version>2.11.1</log4j.version>
+        <log4j.version>2.13.3</log4j.version>
         <mockito.version>1.9.0</mockito.version>
         <slf4j.version>1.7.25</slf4j.version>
         <swagger.version>1.5.21</swagger.version>
