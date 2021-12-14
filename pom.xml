@@ -56,9 +56,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <javac.version>1.8</javac.version>
+        <java.version>11</java.version>
+        <javac.version>11</javac.version>
         <maven.compile.source>${javac.version}</maven.compile.source>
         <maven.compile.target>${javac.version}</maven.compile.target>
+        <maven.compiler.release>11</maven.compiler.release>
+        <maven.version>3.6.0</maven.version>
 
         <!-- plugin versions -->
         <cobertura-maven-plugin.version>2.7</cobertura-maven-plugin.version>
