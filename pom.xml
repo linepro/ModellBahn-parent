@@ -117,7 +117,7 @@
         <guava.version>29.0-jre</guava.version>
         <guice-assistedinject.version>4.2.2</guice-assistedinject.version>
         <guice.version>4.2.2</guice.version>
-        <h2.version>1.4.197</h2.version>
+        <h2.version>2.0.202</h2.version>
         <hamcrest.version>2.1</hamcrest.version>
         <hibernate-core.version>5.4.0.Final</hibernate-core.version>
         <hibernate-validator.version>6.0.20.Final</hibernate-validator.version>
