@@ -132,7 +132,6 @@
         <jersey-guice.version>1.19.4</jersey-guice.version>
         <jetty.version>9.4.11.v20180605</jetty.version>
         <jul-to-slf4j.version>1.7.25</jul-to-slf4j.version>
-        <log4j.version>2.16.0</log4j.version>
         <mockito.version>1.9.0</mockito.version>
         <slf4j.version>1.7.25</slf4j.version>
         <swagger.version>1.5.21</swagger.version>
@@ -143,32 +142,6 @@
 
     <dependencyManagement>
         <dependencies>
-            <!-- Google -->
-            <!--
-            <dependency>
-                <groupId>com.google.auto.factory</groupId>
-                <artifactId>auto-factory</artifactId>
-                <version>${auto-factory.version}</version>
-                <optional>true</optional>
-            </dependency>
-            <dependency>
-                <groupId>com.google.auto.service</groupId>
-                <artifactId>auto-service</artifactId>
-                <version>${auto-service.version}</version>
-                <optional>true</optional>
-            </dependency>
-            <dependency>
-                <groupId>com.google.auto.value</groupId>
-                <artifactId>auto-value</artifactId>
-                <version>${auto-value.version}</version>
-                <optional>true</optional>
-            </dependency>
-            <dependency>
-                <groupId>com.google.dagger</groupId>
-                <artifactId>dagger</artifactId>
-                <version>${dagger.version}</version>
-            </dependency>
-            -->
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
@@ -571,39 +544,7 @@
                 <artifactId>hibernate-validator-annotation-processor</artifactId>
                 <version>${hibernate-validator.version}</version>
             </dependency>
-    
-            <!-- Logging -->
-            <dependency>
-                <groupId>org.slf4j</groupId>
-                <artifactId>slf4j-api</artifactId>
-                <version>${slf4j.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.logging.log4j</groupId>
-                <artifactId>log4j-api</artifactId>
-                <version>${log4j.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.logging.log4j</groupId>
-                <artifactId>log4j-core</artifactId>
-                <version>${log4j.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.logging.log4j</groupId>
-                <artifactId>log4j-slf4j-impl</artifactId>
-                <version>${log4j.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.apache.logging.log4j</groupId>
-                <artifactId>log4j-jcl</artifactId>
-                <version>${log4j.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.slf4j</groupId>
-                <artifactId>jul-to-slf4j</artifactId>
-                <version>${jul-to-slf4j.version}</version>
-            </dependency>
-    
+
             <!-- Swagger -->
             <dependency>
                 <groupId>io.swagger</groupId>
